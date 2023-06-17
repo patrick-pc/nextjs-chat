@@ -14,8 +14,8 @@ const exampleMessages = [
     message: 'Summarize the following article for a 2nd grader: \n'
   },
   {
-    heading: 'Draft an email',
-    message: `Draft an email to my boss about the following: \n`
+    heading: 'Chai recipe',
+    message: `How to make a brewed chai?`
   }
 ]
 
